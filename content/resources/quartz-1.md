@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Image
 title: quartz.tif
+type: OCWFile
 uid: 3cccf93c-fbd1-cb51-99e3-fd9482d2a55a
 ---

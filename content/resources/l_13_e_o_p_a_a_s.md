@@ -6,7 +6,12 @@ description: This file contains lecture on brittle fracture and sliding summary 
   chemical pore fluid effects and bibliography.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-524-mechanical-properties-of-rocks-fall-2005/3606d68710282a0393c054c5d9c10d1f_l_13_e_o_p_a_a_s.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: l_13_e_o_p_a_a_s.pdf
+type: OCWFile
 uid: 3606d687-1028-2a03-93c0-54c5d9c10d1f
 ---

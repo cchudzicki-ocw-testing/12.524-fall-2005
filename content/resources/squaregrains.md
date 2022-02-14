@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Image
 title: squaregrains.tif
+type: OCWFile
 uid: b3b8d0e6-536b-98af-b64d-b65c75f056f0
 ---
