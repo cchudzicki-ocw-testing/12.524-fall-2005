@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: disloc_geometry.pdf
-type: OCWFile
 uid: 31b61c59-ff7b-5eee-6730-9ae9a235d510
 ---

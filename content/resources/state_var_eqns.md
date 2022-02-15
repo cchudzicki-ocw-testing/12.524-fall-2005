@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: state_var_eqns.pdf
-type: OCWFile
 uid: c80a8f8b-8458-4659-9384-0af28e6c4350
 ---

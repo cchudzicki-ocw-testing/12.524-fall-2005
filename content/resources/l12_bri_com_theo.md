@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: l12_bri_com_theo.pdf
-type: OCWFile
 uid: 5cc02008-dcbc-7291-3101-40297c3c8ae5
 ---

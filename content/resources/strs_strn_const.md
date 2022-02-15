@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: strs_strn_const.pdf
-type: OCWFile
 uid: 41dfd3a7-1345-a316-d95e-208a21f888ac
 ---

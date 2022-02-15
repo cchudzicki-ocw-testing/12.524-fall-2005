@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: labii_com_tescar.pdf
-type: OCWFile
 uid: 74c1eac6-22b6-ccbb-9dfa-2082df1038e7
 ---

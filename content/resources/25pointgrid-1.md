@@ -13,6 +13,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Image
 title: 25pointgrid.tif
-type: OCWFile
 uid: 88068ce2-57cb-1294-834e-c7e1a1c992ef
 ---

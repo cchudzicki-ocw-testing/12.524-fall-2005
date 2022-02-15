@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: diff_cr_in_mo_so.pdf
-type: OCWFile
 uid: 89528b59-fc1f-0c75-ce82-61a0f108f998
 ---

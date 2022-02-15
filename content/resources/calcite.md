@@ -13,6 +13,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Image
 title: calcite.tif
-type: OCWFile
 uid: a77530e3-c222-85c5-4e9b-560ef3ac900d
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: diff_creep_mono.pdf
-type: OCWFile
 uid: 5daf1d7d-f4d1-4112-f1b9-da8e1c967bdb
 ---

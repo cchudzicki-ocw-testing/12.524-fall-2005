@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: l9a_sur_ten_1005.pdf
-type: OCWFile
 uid: 14f9e94d-15e1-1a72-4b64-c75e93946df7
 ---

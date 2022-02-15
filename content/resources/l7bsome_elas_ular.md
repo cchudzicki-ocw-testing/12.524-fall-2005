@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: l7bsome_elas_ular.pdf
-type: OCWFile
 uid: 8380d3bd-557e-10ec-ca9d-a4fae908ff33
 ---

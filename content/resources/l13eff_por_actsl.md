@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: l13eff_por_actsl.pdf
-type: OCWFile
 uid: 33945351-78c3-b127-09df-92150cee77d7
 ---

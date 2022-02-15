@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: lab1_imaanalys.pdf
-type: OCWFile
 uid: 579a26d4-1149-d136-81ba-297aa85d283b
 ---

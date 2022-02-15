@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: quartz.pdf
-type: OCWFile
 uid: 0f646b6a-f22c-78e8-a8da-e60d01b1fe87
 ---

@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: l1mech_mode_scal.pdf
-type: OCWFile
 uid: 3a19e485-163f-76e9-6fea-35286c955f9b
 ---

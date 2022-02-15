@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: stress_strain_2a.pdf
-type: OCWFile
 uid: 95e1fffe-7fb6-6aed-a9e1-7ca7316bec93
 ---

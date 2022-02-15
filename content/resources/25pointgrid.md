@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 25pointgrid.pdf
-type: OCWFile
 uid: edcf583e-571e-9be1-7a00-1bd1659dc669
 ---

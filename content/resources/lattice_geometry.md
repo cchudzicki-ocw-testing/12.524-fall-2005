@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lattice_geometry.pdf
-type: OCWFile
 uid: 02a7b112-3507-5325-ecc1-53de1ba111ad
 ---

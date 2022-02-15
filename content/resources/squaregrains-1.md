@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: squaregrains.pdf
-type: OCWFile
 uid: 0e388ba9-2105-ec77-bb29-35f3a85984f6
 ---

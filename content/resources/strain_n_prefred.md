@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: strain_n_prefred.pdf
-type: OCWFile
 uid: 7a39368f-43b5-7bc3-c334-a32f6c75a28f
 ---
