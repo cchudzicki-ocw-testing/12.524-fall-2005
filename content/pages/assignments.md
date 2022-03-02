@@ -36,7 +36,7 @@ Problem Set 1
 {{< tdopen >}}
 
 
-The Strength of the Lithosphere ({{< resource_link 7f02acef-6b05-3436-8ca7-c47d61180675 "PDF" >}})
+The Strength of the Lithosphere ({{% resource_link 7f02acef-6b05-3436-8ca7-c47d61180675 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -56,20 +56,20 @@ Lab 1
 {{< tdopen >}}
 
 
-Image Analysis ({{< resource_link 579a26d4-1149-d136-81ba-297aa85d283b "PDF" >}})
+Image Analysis ({{% resource_link 579a26d4-1149-d136-81ba-297aa85d283b "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Grid ({{< resource_link edcf583e-571e-9be1-7a00-1bd1659dc669 "PDF" >}})
+Grid ({{% resource_link edcf583e-571e-9be1-7a00-1bd1659dc669 "PDF" %}})
 
-Calcite ({{< resource_link bee26468-7830-8148-fdae-867ecf1fcd53 "PDF" >}})
+Calcite ({{% resource_link bee26468-7830-8148-fdae-867ecf1fcd53 "PDF" %}})
 
-Quartz ({{< resource_link 0f646b6a-f22c-78e8-a8da-e60d01b1fe87 "PDF" >}})
+Quartz ({{% resource_link 0f646b6a-f22c-78e8-a8da-e60d01b1fe87 "PDF" %}})
 
-Square Grains ({{< resource_link 0e388ba9-2105-ec77-bb29-35f3a85984f6 "PDF" >}})
+Square Grains ({{% resource_link 0e388ba9-2105-ec77-bb29-35f3a85984f6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -86,7 +86,7 @@ Problem Set 2
 {{< tdopen >}}
 
 
-Stress, Faults, and Friction ({{< resource_link e29331c6-1324-4536-2ef0-7683aa57b0f8 "PDF" >}})
+Stress, Faults, and Friction ({{% resource_link e29331c6-1324-4536-2ef0-7683aa57b0f8 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -106,7 +106,7 @@ Lab 2
 {{< tdopen >}}
 
 
-Deformation Experiment ({{< resource_link 74c1eac6-22b6-ccbb-9dfa-2082df1038e7 "PDF" >}})
+Deformation Experiment ({{% resource_link 74c1eac6-22b6-ccbb-9dfa-2082df1038e7 "PDF" %}})
 
 
 {{< tdclose >}}
