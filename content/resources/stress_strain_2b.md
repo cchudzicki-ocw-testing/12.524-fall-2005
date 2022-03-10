@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: stress_strain_2b.pdf
 uid: 71bda7a0-bc09-d20d-c77f-76e6cf5db36d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

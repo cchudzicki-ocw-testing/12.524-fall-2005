@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l13eff_por_actsl.pdf
 uid: 33945351-78c3-b127-09df-92150cee77d7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

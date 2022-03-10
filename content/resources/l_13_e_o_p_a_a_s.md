@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l_13_e_o_p_a_a_s.pdf
 uid: 3606d687-1028-2a03-93c0-54c5d9c10d1f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

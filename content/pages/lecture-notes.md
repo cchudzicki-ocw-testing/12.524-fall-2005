@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 6c1611e4-16dc-ac4c-a120-97c2aaa685b7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The below table contains notes distributed to the class to supplement the lectures.

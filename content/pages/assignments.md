@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: f6466739-950d-cfb8-ec42-3e784cbdb89b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Problem sets and labs are assigned on alternating weeks.

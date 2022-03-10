@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: labii_com_tescar.pdf
 uid: 74c1eac6-22b6-ccbb-9dfa-2082df1038e7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

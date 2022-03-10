@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l10c_lefm_dyke_s.pdf
 uid: bcca7d33-0882-2f6b-d2c2-044c76e4a89e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

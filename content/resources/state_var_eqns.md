@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: state_var_eqns.pdf
 uid: c80a8f8b-8458-4659-9384-0af28e6c4350
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

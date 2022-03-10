@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lab1_imaanalys.pdf
 uid: 579a26d4-1149-d136-81ba-297aa85d283b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

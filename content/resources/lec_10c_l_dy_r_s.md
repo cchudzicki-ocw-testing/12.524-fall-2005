@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec_10c_l_dy_r_s.pdf
 uid: a7081d4f-28f8-0460-d56a-32406b42943c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

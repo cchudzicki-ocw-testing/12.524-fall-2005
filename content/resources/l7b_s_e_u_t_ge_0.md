@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l7b_s_e_u_t_ge_0.pdf
 uid: 53918227-62bd-e05d-baa1-4091808aaaef
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

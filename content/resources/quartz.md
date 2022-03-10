@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: quartz.pdf
 uid: 0f646b6a-f22c-78e8-a8da-e60d01b1fe87
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

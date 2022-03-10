@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: 25pointgrid.tif
 uid: 88068ce2-57cb-1294-834e-c7e1a1c992ef
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

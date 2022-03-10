@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l14_poin_def_min.pdf
 uid: 8c8bca52-a75b-eaea-e7aa-0415a2c9e5f1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

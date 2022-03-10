@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lattice_geometry.pdf
 uid: 02a7b112-3507-5325-ecc1-53de1ba111ad
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

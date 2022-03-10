@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: calcite.pdf
 uid: bee26468-7830-8148-fdae-867ecf1fcd53
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

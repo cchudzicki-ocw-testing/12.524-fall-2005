@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: str_str_co.pdf
 uid: 56611e62-b40e-25d5-5397-36a099f924b9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

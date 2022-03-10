@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: squaregrains.pdf
 uid: 0e388ba9-2105-ec77-bb29-35f3a85984f6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

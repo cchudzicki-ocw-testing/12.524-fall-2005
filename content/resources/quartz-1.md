@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: quartz.tif
 uid: 3cccf93c-fbd1-cb51-99e3-fd9482d2a55a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

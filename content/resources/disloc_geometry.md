@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: disloc_geometry.pdf
 uid: 31b61c59-ff7b-5eee-6730-9ae9a235d510
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

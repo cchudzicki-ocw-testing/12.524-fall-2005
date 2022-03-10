@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l4_5fric_rock_09_26.pdf
 uid: 72fa1e99-4656-a841-ecd6-846a0ff65e4d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

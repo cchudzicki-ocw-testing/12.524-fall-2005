@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l1mech_mode_scal.pdf
 uid: 3a19e485-163f-76e9-6fea-35286c955f9b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

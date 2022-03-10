@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: problem_set_1.pdf
 uid: 7f02acef-6b05-3436-8ca7-c47d61180675
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

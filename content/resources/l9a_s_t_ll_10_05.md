@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l9a_s_t_ll_10_05.pdf
 uid: 3508f479-3319-f04b-66a3-dd83d7cc7e92
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

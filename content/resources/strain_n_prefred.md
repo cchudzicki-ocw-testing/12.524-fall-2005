@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: strain_n_prefred.pdf
 uid: 7a39368f-43b5-7bc3-c334-a32f6c75a28f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

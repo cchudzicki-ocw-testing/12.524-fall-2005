@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 25pointgrid.pdf
 uid: edcf583e-571e-9be1-7a00-1bd1659dc669
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

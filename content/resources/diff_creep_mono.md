@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: diff_creep_mono.pdf
 uid: 5daf1d7d-f4d1-4112-f1b9-da8e1c967bdb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

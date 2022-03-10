@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l12_bri_com_theo.pdf
 uid: 5cc02008-dcbc-7291-3101-40297c3c8ae5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

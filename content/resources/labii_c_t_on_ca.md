@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: labII_c_t_on_ca.pdf
 uid: d82382e7-a959-cb46-03f5-21be006e54f0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
