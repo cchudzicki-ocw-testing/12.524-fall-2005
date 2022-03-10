@@ -117,9 +117,9 @@ Deformation Experiment ({{% resource_link 74c1eac6-22b6-ccbb-9dfa-2082df1038e7 "
 {{< tdopen >}}
 
 
-Carrara Marble: Carrara Marble\_rheology.txt ([TXT](/courses/earth-atmospheric-and-planetary-sciences/12-524-mechanical-properties-of-rocks-fall-2005/assignments/CarraraMarble_rheology.txt))
+Carrara Marble: Carrara Marble\_rheology.txt ({{% resource_link d729f3cc-255d-59bc-7e8e-17c29676bb4c "TXT" %}})
 
-Solnhofen Limestone: Solnhofen Limestone.txt ([TXT](/courses/earth-atmospheric-and-planetary-sciences/12-524-mechanical-properties-of-rocks-fall-2005/assignments/SolnhofenLimestone.txt))
+Solnhofen Limestone: Solnhofen Limestone.txt ({{% resource_link 957290fa-683a-b848-4ae6-94c3e3e23f2a "TXT" %}})
 
 
 {{< tdclose >}}
