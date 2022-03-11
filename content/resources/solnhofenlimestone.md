@@ -14,4 +14,6 @@ title: SolnhofenLimestone.txt
 uid: 957290fa-683a-b848-4ae6-94c3e3e23f2a
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
