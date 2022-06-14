@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about the topic strain, examples of strain, and
   types of strain.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-524-mechanical-properties-of-rocks-fall-2005/71bda7a0bc09d20dc77f76e6cf5db36d_stress_strain_2b.pdf
+file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/71bda7a0bc09d20dc77f76e6cf5db36d_stress_strain_2b.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource discusses about the topic strain, examples of strain, and types of strain.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains assignment
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-524-mechanical-properties-of-rocks-fall-2005/d82382e7a959cb4603f521be006e54f0_labII_c_t_on_ca.pdf
+file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/d82382e7a959cb4603f521be006e54f0_labII_c_t_on_ca.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This file contains assignment

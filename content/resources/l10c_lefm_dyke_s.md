@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains notes for the topic: Linear Elastic Fracture Mechanics
   and Dyke Propogation.'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-524-mechanical-properties-of-rocks-fall-2005/bcca7d3308822f6bd2c2044c76e4a89e_l10c_lefm_dyke_s.pdf
+file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/bcca7d3308822f6bd2c2044c76e4a89e_l10c_lefm_dyke_s.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This file contains notes for the topic: Linear Elastic Fracture Mechanics and Dyke Propogation.

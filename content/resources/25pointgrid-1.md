@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-524-mechanical-properties-of-rocks-fall-2005/88068ce257cb1294834ec7e1a1c992ef_25pointgrid.tif
+file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/88068ce257cb1294834ec7e1a1c992ef_25pointgrid.tif
 file_type: image/tiff
 image_metadata:
   caption: ''
