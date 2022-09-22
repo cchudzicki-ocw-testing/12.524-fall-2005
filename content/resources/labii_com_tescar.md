@@ -7,6 +7,7 @@ file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/74c1eac622b6ccbb9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
